@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of what hapned at Bedford on Munday last, Aug. 19 instant while thundering, lightning, and tempestuous winds tore up the trees by the roots, the gates off the hinges, breaking them in pieces, driving down houses to the terror and amazement of the inhabitants as by this narrative will more at large appear / attested by several ey-witnesses.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63739</idno>
+            <idno type="STC">Wing T3078</idno>
+            <idno type="STC">ESTC R25694</idno>
+            <idno type="EEBO-CITATION">09062442</idno>
+            <idno type="OCLC">ocm 09062442</idno>
+            <idno type="VID">42381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42381)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:66)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of what hapned at Bedford on Munday last, Aug. 19 instant while thundering, lightning, and tempestuous winds tore up the trees by the roots, the gates off the hinges, breaking them in pieces, driving down houses to the terror and amazement of the inhabitants as by this narrative will more at large appear / attested by several ey-witnesses.</title>
+                  <author>Mithnal, Anthony.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fra. Smith and R. Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Anthony Mithnal [and 6 others]</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedford (England) --  Storm, 1672.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42381:1"/>
+            <pb facs="tcp:42381:1" rendition="simple:additions"/>
+            <p>A True RELATION Of what hapned at BEDFORD, On Munday laſt, <hi>Aug.</hi> 19. inſtant, WHILE <hi>Thundering, Lightning,</hi> and <hi>Tempeſtuous Winds</hi> tore up the Trees by the Roots, the Gates off the Hinges, Breaking them in pieces, Driving down Houſes, To the Terror and Amazement of the INHABITANTS; As by this NARRATIVE will more at large appear, <hi>Atteſted by ſeveral Ey-witneſſes.</hi>
+            </p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Fra. Smith</hi> at the Elephant and Caſtle without <hi>Temple-Bar,</hi> and <hi>R. Tayler</hi> at the Crown in <hi>Litle Britain.</hi> 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:42381:2"/>
+            <pb n="3" facs="tcp:42381:2"/>
+            <head>A True Relation of what hapned at <hi>Bedford,</hi> on Munday laſt <hi>19</hi> Inſtant, while Thundering, Lightning, and Tempeſtuous Winds tore up the Trees by the Roots, the Gates off the Hinges, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter my hearty love to your Self and Family preſented, We have unwonted news from theſe parts to acquaint you with: For on Munday laſt, the Nineteenth of this inſtant <hi>Auguſt,</hi> hapned in our Town of <hi>Bedford,</hi> an Horri<g ref="char:EOLhyphen"/>ble and Unheard of Tem<g ref="char:EOLhyphen"/>peſt, with much Terrible Thunder, Rain, and Lightning, to the general Amazement and Terror
+<pb n="4" facs="tcp:42381:3"/>of all the Inhabitants, beginning about one a Clock in the Afternoon, and continuing for about half an hour; in which time it threw the <hi>Swan</hi> Inn Gates off the Hinges, into the Street and after it had whirled them there, up and down, as if they had been a Foot-Ball, it brake them to pieces: It drove a Coach in the ſame Yard from the back Gates up, almoſt to the Cellar door, which is ſeve<g ref="char:EOLhyphen"/>ral Poles from thence: It carried a great Tree from beyond the River, over our <hi>Pauls</hi> Steeple, as if it had been a bundle of Feathers; it threw down Mr. <hi>Beverleys,</hi> Stack of Corn of well-nigh Threeſcore Load, breaking to pieces the Carts that were under it, much of the Corn being carried no Man knows whether.</p>
+            <p>In <hi>Offell-lane</hi> the violence was ſuch, it bore down two Houſes in an inſtant, to the dreadful amaze<g ref="char:EOLhyphen"/>ment of the Spectators, that bleſſed be God, eſ<g ref="char:EOLhyphen"/>caped maiming, yet knew not where to flie for ſhelter, but to run too and fro like perſons amazed. In one of our Gardens it rent up the Onion and Reddish Beds by the Roots, with an incredible violence, carrying them almoſt two Miles. It plucked up a large Apricock Tree by the Roots, and rent it from the Wall, to which it was nailed, and carrried it over Houſes and Hedges almoſt a quarter of a Mile.</p>
+            <p>At <hi>Cardwel</hi> it brake down much of a great Stone Wall, and plucked up ſeveral great Trees by the Roots, and carried one of them almoſt a Furlong. Alſo there it did pluck up a Quickſet Hedge by the Roots, and ſo tore and mangled it, that it lay
+<pb n="5" facs="tcp:42381:3"/>all in Tazles, as if it had been Buſhes Tops, and Roots together.</p>
+            <p>It brought a large Tree from ſome place un<g ref="char:EOLhyphen"/>known, and ſet it upright in a Field belonging to the <hi>Swan</hi> Inn, ſtriking the Roots of it nigh a Foot into the Ground; and thence plucked it up again and carried it ſome certain paces further: It tore alſo many Arms from the Trees, carrying them quite over the River.</p>
+            <p>The <hi>Roſe</hi> Inn Gates it throw off the Hinges into the middle of the Street. The <hi>Maiden-head</hi> Inn Gates it ſerved in like manner, and broke them to pieces. It took up about a Load of great Ruſhes, carrying them from the place where they ſtood, and left many of them, no Mortal knows where.</p>
+            <p>Mr. <hi>Criſty</hi> our Lawyer, hath alſo received much hurt by this Strange Tempeſt, which came alſo to <hi>John Ruſhes</hi> Shop, driving his Sieves, Pales, and other Wooden Ware up and down the Streets, making a heavy clattering, ſcarce to be credited. The Head-Hoſtler at the <hi>Ram</hi> Inn and his Man, was conſtrained to fix themſelves to a Poſt, other<g ref="char:EOLhyphen"/>wiſe they had been carried away by this vio<g ref="char:EOLhyphen"/>lence.</p>
+            <p>At the aforeſaid Mr. <hi>Beverleys</hi> there was Trees of Twenty Inches ſquare rent in pieces; the Church called Saint <hi>Peters,</hi> is much damnified alſo; the Church called Saint <hi>John</hi> hath met with ſhare in this Tempeſt: The Head-Hoſtler at the <hi>Swan</hi> Inn, where they was a Brewing, as he was going to open the Furnace door, the Tempeſt came and clapt the Brew-houſe door, and the Furnace door
+<pb n="6" facs="tcp:42381:4"/>together with that force, as if it had broke them to pieces, in ſo much, that it whirled the Fire from under the Furnace, and the Flame ſeiſed on the Roof of the Houſe, ſetting it on fire, but he being careful, with Water ſpeedily quenched it; elſe they had, in all probability, with many more Houſes of the Neighborhood, been deſtroyed, had not this timely application intercepted.</p>
+            <p>It is credibly reported, That at the Town of <hi>Liddlington,</hi> Five miles from hence, much hurt was done, and two Hay-Cocks was turned upſide down, and carried away.</p>
+            <p>
+               <hi>Wooburne</hi> alſo, as we are informed, felt ſome<g ref="char:EOLhyphen"/>thing of this terrible Tempeſt, ſome Houſes in that Town being levelled with the Ground by it. It is reported by Paſſengers upon the Road, that they ſee a great combuſtion in the Air, the Clouds, as it were, fighting one againſt another, inſomuch, that they thought at a diſtance the Town of <hi>Bed<g ref="char:EOLhyphen"/>ford</hi> was on a light fire.</p>
+            <p>To be brief, the danger for the time it laſted was ſuch, That the people ſcarce knew where to be in ſafety from the violence of the ſtorm, while the Tyles rent from many Houſes, thrown as with a ſtrong Hand, about the Streets with many other dreadful Accidents, as by the next you may re<g ref="char:EOLhyphen"/>ceive further account.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="7" facs="tcp:42381:4"/>
+            <head>POSTSCRIPT.</head>
+            <p>IT is very remarkable, That all this did not much harm upon any perſon, ſave in the Terror of it, ſufficiently great, one Man excepted that was hurt with a piece of a Timber. And alſo it is very obſervable, that what was of leaſt ſtrength, or moſt expoſed, as the Glaſs-Windows, Signs and Sign-Poſts, received ſuch inconſiderable harm, as is ſcarce to be credited, conſidering the ſtrength of the Gates it tore down, with the Trees of great bulk, whoſe faſtned Roots were ſoon pulled up.</p>
+            <p>Near Juſtice <hi>Barbers</hi> Grounds, was a Stone Wall blown down, and ſuch breaches made, that two Carts a breaſt might go thorow; Twenty of the ſaid Juſtices ſtouteſt Elms were torn up by the Roots and the violence was ſo great, that it clear<g ref="char:EOLhyphen"/>ed his Orchard of moſt of his Fruit-Trees, much of the Fruit blown into a Meadow on the other ſide of the River <hi>Owſe.</hi> A Tanners Man coming over the Bridge, was taken up from the Ground, and hardly eſcaped blowing over the Bridge, inſomuch that he fell upon his Belly, and crawled away upon his Hands and Knees. It blew down ſeveral Houſes at the farther end of the Town, and removed one Houſe two yards out of its place, and ſet the Threſ<g ref="char:EOLhyphen"/>hold where the middle of the Houſe was before. It blew alſo many ſeveral Stacks of Hey which are not yet to be found. A Woman ſitting by her fire, had her Chimney blown away, and ſhe removed
+<pb n="8" facs="tcp:42381:5"/>in the middle of the Houſe, without any other ap<g ref="char:EOLhyphen"/>parent hurt, ſave the amazement. A Fiſherman had a great Pile of Flags carried away, which after two days ſearch was found in <hi>Putney</hi> Paſtors, two miles diſtant from the ſaid Fiſhermans Houſe.</p>
+            <p>This dreadful Tempeſt began with a great Darkneſs, and laſted half an hour, accompanied with extraordinary Claps of Thunder and Light<g ref="char:EOLhyphen"/>ning, inſomuch, that the People of the adjacent places, did believe the whole Town of <hi>Bedford</hi> to be on a light flame.</p>
+            <closer>
+               <signed>Theſe worthy and credible Teſtimonies, with Thouſands more, were Eye-witneſs that might be inſerted, take as followeth.
+<list>
+                     <item>Mr. <hi>Anthony Mithnal</hi> Major.</item>
+                     <item>Mr. <hi>John Gardener</hi> Recorder.</item>
+                     <item>Mr. <hi>Francis Becket</hi> Alderman.</item>
+                     <item>Mr. <hi>Tho<gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> Chriſty</hi> Attorney.</item>
+                     <item>Mr. <hi>George Margets.</hi>
+                     </item>
+                     <item>Mr. <hi>John Crawley.</hi>
+                     </item>
+                     <item>Mr. <hi>John Ruſh, Bedford</hi> Waggoner.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42381:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
